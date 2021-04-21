@@ -11,7 +11,7 @@ namespace bol
     {
         static void Main(string[] args)
         {
-            Game.PrintChat("Tomo cwel!");
+            Game.PrintChat("Printing from the game");
         }
     }
 }
